@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+.venv/
+
+# Pycache
+__pycache__/
+*.py[cod]
+
+# Additonal files/folders
+*.log
+.vscode/
+
